@@ -176,5 +176,6 @@ public class BeritaDesaFragment extends Fragment {
         });
 
         AppController.getInstance().addToRequestQueue(request);
+        //Catatan Kaki
     }
 }
