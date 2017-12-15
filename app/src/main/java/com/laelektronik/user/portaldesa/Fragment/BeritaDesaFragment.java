@@ -79,7 +79,7 @@ public class BeritaDesaFragment extends Fragment {
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(adapter);
 
-
+        //cek
         fetchContent();
 
         // Inflate the layout for this fragment \
